@@ -42,7 +42,7 @@ public class Student {
     public double getGpa() {
         return gpa;
     }
-    public void setGpa(double aGpa) {
+    private void setGpa(double aGpa) {
         gpa = aGpa;
     }
 
