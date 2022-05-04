@@ -23,6 +23,6 @@ public class Teacher {
     public Double getYearsTeaching() { return this.yearsTeaching; }
     public void setYearsTeaching(Double yearsTeaching) { this.yearsTeaching = yearsTeaching; }
 
-    
+
 
 }
